@@ -1,0 +1,4 @@
+*.html
+*.csv
+*.RData
+*.ipynb_checkpoint/
